@@ -85,25 +85,15 @@
 
 
 | Слой | Технология |
-
-|----|----|
-
+| :--- | :--- |
 | Язык программирования | Java 8 |
-
 | Веб-фреймворк | Java Servlet API, JSP |
-
 | Клиентская часть | HTML, CSS, JavaScript, Bootstrap 4 |
-
 | Сборка | Apache Maven |
-
 | CI/CD | Travis CI |
-
 | Развертывание | Heroku |
-
 | Тестирование | JUnit 4.12 |
-
 | СКВ | Git + GitHub |
-
 | Среды разработки | Eclipse, Linux Ubuntu, Linux Mint, Windows 10 |
 
 
@@ -289,15 +279,10 @@ $$M_{общ} = МРОТ \cdot k \cdot (1 - perc / 100)$$
 
 
 | Участник | Зона ответственности |
-
-|---|---|
-
+| :--- | :--- |
 | Гибадуллина Э.Ю. | Техническая документация, ТЗ, руководства, UML-модели, CI/CD |
-
 | Газин Д.Р. | BaseSolver, Solver, RegisterController |
-
 | Катасонов С.А. | AuthController, ExportController, auth.js, main.js |
-
 | Рафиков Д.Р. | engine.jsp, index.jsp, сервлеты, admin.js |
 
 
@@ -306,9 +291,9 @@ $$M_{общ} = МРОТ \cdot k \cdot (1 - perc / 100)$$
 
 
 
-- Репозиторий с исходным кодом: \[github.com/Gibadullina/calculator-team1](https://github.com/Gibadullina/calculator-team1)
+- Репозиторий с исходным кодом: [github.com/Gibadullina/calculator-team1](https://github.com/Gibadullina/calculator-team1)
 
-- Демо на Heroku: \[pi221team1-course.herokuapp.com](https://pi221team1-course.herokuapp.com/)
+- Демо на Heroku: [pi221team1-course.herokuapp.com](https://pi221team1-course.herokuapp.com/)
 
 
 
