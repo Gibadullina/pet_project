@@ -293,7 +293,6 @@ $$M_{общ} = МРОТ \cdot k \cdot (1 - perc / 100)$$
 
 - Репозиторий с исходным кодом: [github.com/Gibadullina/calculator-team1](https://github.com/Gibadullina/calculator-team1)
 
-- Демо на Heroku: [pi221team1-course.herokuapp.com](https://pi221team1-course.herokuapp.com/)
 
 
 
@@ -310,4 +309,5 @@ $$M_{общ} = МРОТ \cdot k \cdot (1 - perc / 100)$$
 - Email: gibadullina.elina@inbox.ru
 
 - Резюме: [ссылка на hh.ru](https://ufa.hh.ru/resume/41c9fa8fff05bd60070039ed1f6d33576d3977)
+
 
