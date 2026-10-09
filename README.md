@@ -110,21 +110,25 @@ salary-calculator-docs/
 
 ├── docs/
 
-│   ├── technical-task.md
+│   ├── technical-task.pdf
 
-│   ├── user-manual.md
+│   ├── user-manual.pdf
 
-│   ├── programmer-manual.md
+│   ├── programmer-manual.pdf
 
 │   └── business-requirements.md
 
 ├── models/
 
-│   ├── use-case-diagram.png
+│   ├── use-case.png
 
 │   ├── class-diagram.png
 
-│   └── sequence-diagram.png
+│   ├── mnemonic-scheme.png
+
+│   ├── usecase.md
+
+│   └── sequence.md
 
 ├── ui-screenshots/
 
