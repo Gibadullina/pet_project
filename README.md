@@ -311,3 +311,4 @@ $$M_{общ} = МРОТ \cdot k \cdot (1 - perc / 100)$$
 - Резюме: [ссылка на hh.ru](https://ufa.hh.ru/resume/41c9fa8fff05bd60070039ed1f6d33576d3977)
 
 
+
