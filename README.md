@@ -142,9 +142,9 @@ salary-calculator-docs/
 
 └── prototype/
 
-&#x20;   ├── index.html
+  ├── index.html
 
-&#x20;   └── style.css
+   └── style.css
 
 ```
 
