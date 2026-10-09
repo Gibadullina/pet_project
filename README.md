@@ -104,41 +104,5 @@
 
 \## Структура репозитория
 
-salary-calculator-docs/
 
-├── README.md # Этот файл
-
-├── docs/
-
-│ ├── technical-task.md # Техническое задание (ГОСТ 19.201-78)
-
-│ ├── user-manual.md # Руководство оператора (ГОСТ 19.505-79)
-
-│ ├── programmer-manual.md # Руководство программиста (ГОСТ 19.504-79)
-
-│ └── business-requirements.md # Бизнес-требования (доп. артефакт)
-
-├── models/
-
-│ ├── use-case-diagram.png # Диаграмма вариантов использования
-
-│ ├── class-diagram.png # Диаграмма классов
-
-│ └── sequence-diagram.png # Диаграмма последовательности (расчёт)
-
-├── ui-screenshots/
-
-│ ├── auth-form.png # Форма авторизации
-
-│ ├── main-form.png # Основная форма расчёта
-
-│ ├── admin-panel.png # Панель администратора
-
-│ └── result-report.png # Результат расчёта
-
-└── prototype/
-
-├── index.html # Простой прототип формы
-
-└── style.css # Стили прототипа
 
